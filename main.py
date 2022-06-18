@@ -1,5 +1,4 @@
 import ipaddress
-import os
 import subprocess
 from black import err
 from fastapi import Body, FastAPI, HTTPException, Header
